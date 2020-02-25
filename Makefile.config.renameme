@@ -1,0 +1,17 @@
+
+## You only need to modify this if you're
+## going to rebuild tinyvm.srec.
+
+## some people may have h8300-hitachi-hms- for BINPREFIX
+
+BINDIR = /bin
+BINPREFIX = h8300-hms-
+
+export BINDIR
+export BINPREFIX
+
+# If you dont set it up in the environment:
+#
+# LIBRCX_HOME =
+# export LIBRCX_HOME
+
