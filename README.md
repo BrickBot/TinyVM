@@ -1,3 +1,10 @@
+TinyVM
+======
+A replacement firmware and VM that can execute Java
+programs in the Lego Mindstorms RCX and which became
+the progenitor of the leJOS RCX project
+(see http://sourceforge.net/projects/lejos).
+
 
 Summary
 -------
@@ -16,7 +23,7 @@ Exceptions:
   Use tvmld -verbose to get class & signature
   indices. Use tvm-emul to emulate.
 
-Website    : http://tinyvm.sourceforge.net
+Website    : http://tinyvm.sf.net
 Author     : Jose Solorzano (jhsolorz@yahoo.com)
 Email list : tinyvm-discussion@lists.sourceforge.net
 Developers : tinyvm-develop@lists.sourceforge.net
